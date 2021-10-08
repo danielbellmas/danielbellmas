@@ -27,11 +27,14 @@
   
   <br />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&exclude_repo=CookStore&layout=compact&theme=tokyonight)](https://github.com/danielbellmas/github-readme-stats)
-
+<div>
+    <a href="https://github.com/danielbellmas">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&exclude_repo=CookStore&layout=compact&theme=tokyonight" />
+    </a>
+</div>
   
 ---
   
-![output-onlinepngtools (1)](https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png)
+<img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
   
 </div>
