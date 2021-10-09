@@ -16,7 +16,7 @@
 
 <img title="Node.js" alt="Node.js" width="40px" src="https://img.icons8.com/color/452/nodejs.png" />
 
-<img title="PostgreSQL" alt="PostgreSQL" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<!-- <img title="PostgreSQL" alt="PostgreSQL" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> -->
   
 <img title="GraphQL" alt="GraphQL" width="35px" src="https://img.icons8.com/color/48/000000/graphql.png" />
 
