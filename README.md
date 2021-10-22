@@ -45,10 +45,10 @@
   
   <div>
   <a href="https://linkedin.com/in/daniel-bellmas">
-      <img title="Daniel Bellmas" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+      <img title="LinkedIn" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
   <a href="https://stackoverflow.com/users/14831834/daniel">
-      <img title="Daniel Bellmas" alt="Stack Overflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+      <img title="Stack Overflow" alt="Stack Overflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
   </a>
   </div> 
    
