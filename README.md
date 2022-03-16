@@ -50,12 +50,15 @@
   <h3>Contact Me</h3>
   
   <div>
-  <a href="https://linkedin.com/in/daniel-bellmas">
-      <img title="LinkedIn" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-  </a>
-  <a href="https://stackoverflow.com/users/14831834/daniel">
-      <img title="Stack Overflow" alt="Stack Overflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-  </a>
+    <a href="https://www.linkedin.com/in/daniel-bellmas/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+    </a>
+    <a href="https://stackoverflow.com/users/14831834/daniel">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=ef8236&color=black">
+    </a>
+    <a href="https://dev.to/danielbellmas">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    </a>
   </div> 
    
 </div>
