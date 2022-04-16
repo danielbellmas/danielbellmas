@@ -20,11 +20,11 @@
 
 <img title="Node.js" alt="Node.js" width="40px" src="https://img.icons8.com/color/452/nodejs.png" />
 
-<img title="PostgreSQL" alt="PostgreSQL" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-  
 <img title="GraphQL" alt="GraphQL" width="35px" src="https://img.icons8.com/color/48/000000/graphql.png" />
+  
+<img title="PostgreSQL" alt="PostgreSQL" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 
-<img title="Apollo Client" alt="Apollo Client" width="35px" src="https://img.icons8.com/color/48/000000/apollo.png"/>
+<!-- <img title="Apollo Client" alt="Apollo Client" width="35px" src="https://img.icons8.com/color/48/000000/apollo.png"/> -->
   
 <img title="Git" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   
