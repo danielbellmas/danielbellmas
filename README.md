@@ -41,12 +41,13 @@
     <a href="https://github.com/danielbellmas">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&exclude_repo=CookStore&layout=compact&theme=tokyonight&langs_count=7" />
     </a>
+
 </div>
 
 <br />
   
 
-  
+[![Daniel Bellmas StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14831834)](https://stackoverflow.com/users/14831834/danielbellmas)  
 ---
   
 <div align="center">
