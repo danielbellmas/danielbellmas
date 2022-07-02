@@ -18,6 +18,7 @@
 
 <br />
   
+  [![HitCount](https://hits.dwyl.com/danielbellmas/danielbellmas.svg?style=flat-square)](http://hits.dwyl.com/danielbellmas/danielbellmas)
 
   
 ---
