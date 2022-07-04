@@ -17,6 +17,16 @@
 
 <br />
 
+<div align="start">
+ <h3>📝 My last 3 DEV articles</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- [My Current GitHub Profile](https://dev.to/danielbellmas/my-current-github-profile-14m6)
+- [Decode a Legacy Website](https://dev.to/danielbellmas/decode-a-legacy-website-1ag1)
+- [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
+<!-- BLOG-POST-LIST:END -->
+</div>
+
 ---
 
 <div align="center">
@@ -42,16 +52,8 @@
 
 <br />
 
-<h3>My last 3 DEV articles</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [My Current GitHub Profile](https://dev.to/danielbellmas/my-current-github-profile-14m6)
-- [Decode a Legacy Website](https://dev.to/danielbellmas/decode-a-legacy-website-1ag1)
-- [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
-<!-- BLOG-POST-LIST:END -->
-
-<br />
   <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
     <img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
   </a>
+
 </div>
