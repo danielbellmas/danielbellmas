@@ -26,18 +26,18 @@
   
   <h3>Contact Me</h3>
   
-  <div>
+  <div >
     <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
-    </a>
-    <a href="https://stackoverflow.com/users/14831834/daniel-bellmas" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=ef8236&color=black">
-    </a>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>&nbsp;&nbsp;
     <a href="https://dev.to/danielbellmas" target="_blank">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-    </a>
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=black"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/14831834/daniel-bellmas" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black">
+    </a>&nbsp;&nbsp;
     <a href="https://medium.com/@dbalmas7" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black"/>
     </a>
   </div> 
    
