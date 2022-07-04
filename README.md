@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Main Tech Stack</h1>
 
-
 <div>
 
  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
@@ -17,11 +16,9 @@
 </div>
 
 <br />
-  
 
-  
 ---
-  
+
 <div align="center">
   
   <h3>Contact Me</h3>
@@ -42,7 +39,14 @@
   </div> 
    
 </div>
-  
+
+<br />
+
+<h3>My last 3 DEV articles</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br />
   <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
     <img alt="The Tree of Life" src="https://user-images.githubusercontent.com/76179660/136558695-b3462e1a-8f29-4b7a-87c3-1e9d8aaa7829.png" />
