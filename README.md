@@ -21,10 +21,9 @@
  <h3>📝 My last 3 DEV articles</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [My Current GitHub Profile](https://dev.to/danielbellmas/my-current-github-profile-14m6)
-- [Decode a Legacy Website](https://dev.to/danielbellmas/decode-a-legacy-website-1ag1)
-- [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
-<!-- BLOG-POST-LIST:END -->
+ 💯 My Current GitHub Profile
+ ⚡ Decode a Legacy Website
+ 💯 Real Life Example - Recursive Components<!-- BLOG-POST-LIST:END -->
 </div>
 
 ---
