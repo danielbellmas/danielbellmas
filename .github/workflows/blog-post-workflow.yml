@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/danielbellmas"
           max_post_count: 3
-          template: "$newline $emojiKey(🔥,⚡,🚀) [$title]($url)"
+          template: "$newline $emojiKey(🔥,⚡,🚀) [$title]($url)  <br/>"
