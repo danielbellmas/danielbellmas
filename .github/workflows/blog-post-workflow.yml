@@ -16,3 +16,4 @@ jobs:
           feed_list: "https://dev.to/feed/danielbellmas"
           max_post_count: 3
           template: "$newline $emojiKey(🔥,⚡,🚀) [$title]($url)  <br/>"
+          commit_message: "Update dev.to blog posts"
