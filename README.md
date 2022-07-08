@@ -18,13 +18,11 @@
 <br />
 
 <div align="center">
- <h3>📝 My last 3 DEV articles</h3>
+ <h3>📝 Top DEV Articles 📝</h3>
  
-<!-- BLOG-POST-LIST:START -->
  🔥 [VS Code Keyboard Shortcuts | Or How To Become Even More Productive](https://dev.to/danielbellmas/vs-code-keyboard-shortcuts-or-how-to-become-even-more-productive-46ik)  <br/>
  🚀 [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)  <br/>
  ⚡ [My Current GitHub Profile](https://dev.to/danielbellmas/my-current-github-profile-14m6)  <br/>
-<!-- BLOG-POST-LIST:END -->
 </div>
 
 ---
