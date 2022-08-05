@@ -22,7 +22,7 @@
  <h3>📝 Top DEV Articles 📝</h3>
  
  🔥 [VS Code Keyboard Shortcuts | Or How To Become Even More Productive](https://dev.to/danielbellmas/vs-code-keyboard-shortcuts-or-how-to-become-even-more-productive-46ik)  <br/>
- 🚀 [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)  <br/>
+ 🚀 [Real Life Example - UseImperativeHandle](https://dev.to/danielbellmas/real-life-example-useimperativehandle-34k)  <br/>
  ⚡ [My Current GitHub Profile](https://dev.to/danielbellmas/my-current-github-profile-14m6)  <br/>
 </div>
 
