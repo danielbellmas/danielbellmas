@@ -3,7 +3,7 @@
 
 <div>
 
- <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nextjs,nodejs,gql,postgres,python&perline=5" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" /> 
  
 </div>
   
